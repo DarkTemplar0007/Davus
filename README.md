@@ -5,7 +5,7 @@ to run the script just use a python interpreutter of your choice to run it.
 #  
 
 
-    #pyinstall acords.py
+        #pyinstall acords.py
     
   
 now a dist directory should apear in your build directory. 
