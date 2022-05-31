@@ -18,7 +18,7 @@ Now a dist directory should apear in your build directory.
 In it a directory acords holds your compiled script. 
 
 Note that the script woun't run outside of this directory. 
-# Dependancies
+# Dependencies
 tkinter
 
 pyinstall if you chose to compile it
